@@ -1,0 +1,26 @@
+.footer {
+  background-color: black;
+}
+.footer-list {
+  display: flex;
+  color: white;
+  padding: 20px;
+  list-style-type: none;
+  align-items: center;
+
+  width: 100%;
+  justify-content: center;
+}
+.list {
+  margin: 10px;
+}
+@media screen and (max-width: 720px) {
+  .footer {
+    display: flex;
+  }
+  .footer-list {
+    flex-direction: column;
+    text-align: center;
+    margin: 0px;
+  }
+}

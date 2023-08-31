@@ -1,0 +1,44 @@
+.navbar-button {
+  margin: 0 auto;
+  display: row;
+}
+
+.nav-bar {
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  /* background-color: transparent !important; */
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: rgb(154 152 150 / 59%);
+}
+
+.color {
+  color: white;
+}
+.img {
+  height: 50px;
+  width: 90px;
+  background: none;
+}
+.Nav-icon {
+  display: flex;
+}
+.img-logo {
+  height: 40px;
+}
+.icon-1 {
+  height: 50px;
+  padding: 10px;
+}
+.btn-icon {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 25px;
+}
+
+.white {
+  color: white !important;
+}
