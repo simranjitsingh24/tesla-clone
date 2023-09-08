@@ -26,7 +26,7 @@ export default function Home() {
         name="Model s"
         description="From 29,4708*"
         para="After federl Tax Credit & Est.Savings"
-        backgroundImg="../src/assets/image/img 3.jpg"
+        backgroundImg="../src/assets/image/img19.jpg"
         btnname2="Custem Order"
         btnname1="Demo Drive"
       />
@@ -53,13 +53,13 @@ export default function Home() {
         btnname2="Custem Order"
         btnname1="Demo Drive"
       />
-      {/* <Section
-          name="Solor Roof"
-          description="From 29,4708*"
-          backgroundImg="../src/assets/image/img9.jpg"
-          btnname2="Custem Order"
-          btnname1="Demo Drive"
-        /> */}
+      <Section
+        name="Solor Roof"
+        description="From 29,4708*"
+        backgroundImg="../src/assets/image/img9.jpg"
+        btnname2="Custem Order"
+        btnname1="Demo Drive"
+      />
 
       <Section
         name="Accessorie"
