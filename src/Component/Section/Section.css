@@ -34,15 +34,7 @@
   color: rgba(255, 255, 255, 0.8);
   background-color: rgb(30, 29, 29);
 }
-@media screen and (max-width: 990px) {
-  .model-sec {
-    gap: 170px;
-  }
-  .navbar-toggler {
-    position: absolute;
-    left: 900px;
-  }
-}
+
 @media screen and (max-width: 998px) {
   .icon-1 {
     display: none;
